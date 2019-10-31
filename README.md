@@ -37,7 +37,7 @@ For this project, I was interested in using the Bertelsmann data for the Udacity
 3. Building a model to find future customers for a mail-order company
 4. Taking part in a Kaggle competition
 
-Furthermore a [report](https://medium.com/p/5a76e7d725b9/edit) was written on Medium
+Furthermore a [report](https://medium.com/@kolbandreasmartin/udacity-data-scientist-nanodegree-capstone-project-analyzing-a-arvato-data-set-5a76e7d725b9?sk=8b59776d87ab6f0b81776e692b1e8c6e) was written on Medium
 
 
 ## File Descriptions <a name="files"></a>

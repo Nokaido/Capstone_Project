@@ -102,3 +102,16 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+/Udacity_AZDIAS_052018.csv
+/Udacity_CUSTOMERS_052018.csv
+/customers_altered.csv
+/azdias_altered.csv
+/known_columns.tsv
+/nan_list.tsv
+/Udacity_MAILOUT_052018_TEST.csv
+/Udacity_MAILOUT_052018_TRAIN.csv
+/Arvato Project Workbook_own_save.ipynb
+/Arvato Project Workbook_own_bac.ipynb
+/20191029_Arvato Project Workbook_own.ipynb
+/click_helper.ipynb
+/Arvato_Capstone_Example_Submission.csv
